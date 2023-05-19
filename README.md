@@ -41,5 +41,5 @@ Here are some potential areas to explore for further development and improvement
 
 ## Data Source
 
-The music dataset used to train the model is sourced from the XYZ website (replace with the actual source), which provides a collection of diverse music tracks. The dataset includes a variety of genres such as rock, pop, hip-hop, jazz, and more.
+The music dataset used to train the model is sourced from the GTZAN Genre Collection (https://www.kaggle.com/datasets/carlthome/gtzan-genre-collection?resource=download), which provides a collection of diverse music tracks. The dataset includes a variety of genres such as rock, pop, hip-hop, jazz, and more.
 
