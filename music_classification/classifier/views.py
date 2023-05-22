@@ -12,6 +12,8 @@ def upload_file(request):
 
         return JsonResponse({'message': 'File uploaded successfully.'})
 
+    return JsonResponse({'error': 'Invalid request method.'})
+
 def get_classification_result(request, music_file_id):
     try:
         classification_result = ClassificationResult.objects.get(music_file_id=music_file_id)
