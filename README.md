@@ -29,7 +29,7 @@ python predict_genre.py path/to/music_file.mp3
 
 ## Web Application (Work in Progress)
 
-A web application is currently under development to provide a user-friendly interface for classifying music genres. This will allow users to upload their music files and receive genre predictions. Stay tuned for updates on the progress of the web application.
+A web application is currently under development to provide a user-friendly interface for classifying music genres. This will allow users to upload their music files and receive genre predictions. The Music Genre Classifier will be added to the webpage using Django. Stay tuned for updates on the progress of the web application.
 
 ## Future Work
 
